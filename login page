@@ -55,7 +55,7 @@ namespace Project01
             this.tableAdapterManager.UpdateAll(this.regesterationAppDataSet1);
         }
 
-        private void BindingNavigatorDeleteItem_Click(object sender, EventArgs e)
+        private ali nasser  void BindingNavigatorDeleteItem_Click(object sender, EventArgs e)
         {
 
         }
